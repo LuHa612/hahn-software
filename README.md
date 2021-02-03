@@ -17,7 +17,7 @@ What things you need to install the software and how to install them
 
 ### Installing
 
-Download the project files from *GITHUB LINK* and execute
+Download the project files from https://github.com/LuHa612/hahn-software.git and execute
 
 - dotnet restore
 - npm install
@@ -40,7 +40,7 @@ To execute the project, either use the beforementioned .exe in the publish folde
 
 ## Authors
 
-* **Lukas Hans** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Lukas Hans** - *Initial work* - [LuHa612](https://github.com/LuHa612)
 
 ## License
 
