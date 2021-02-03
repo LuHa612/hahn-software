@@ -26,7 +26,7 @@ to install the missing nugets and node_modules.
 
 ## Deployment
 
-Find the publish folder with a self-contained version of the whole project in the root directory. Execute the .exe in the publish folder for a ready-to go built version of the project.
+Build the Solution and publish the Web-Host Project to any location. That will result in a self-contained version of the whole project. Execute the .exe in the publish folder for a ready-to go built version of the project.
 
 ## Executing
 
